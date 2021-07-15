@@ -11,6 +11,7 @@ body {
   /* background-image: linear-gradient(120deg, #150169 0%, #000000 100%); */
   background-image: url('https://grantcardonetv.com/wp-content/uploads/todo_list-1400x787.jpg');
   background-repeat: no-repeat;
+  background-size: cover;
   color: white;
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
