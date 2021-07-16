@@ -1,5 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Yomogi&display=swap');
-
+/* Estilos letras */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Jost:ital,wght@0,100;1,200;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Jost:ital,wght@0,100;1,200;1,300&family=News+Cycle&display=swap');
 
 * {
   margin: 0;
@@ -7,13 +8,16 @@
   box-sizing: border-box;
 
 }
+
 body {
   /* background-image: linear-gradient(120deg, #150169 0%, #000000 100%); */
-  background-image: url('https://grantcardonetv.com/wp-content/uploads/todo_list-1400x787.jpg');
+  background-image: url('./img/workspace8_generated.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Comfortaa', cursive;
+  font-family: 'Jost', sans-serif;
+  font-family: 'News Cycle', sans-serif;
   min-height: 100vh;
 }
 header {
@@ -30,8 +34,8 @@ form {
 
 h1{
   color: rgb(53, 15, 15);
-  font-family: 'Yomogi', cursive;
-
+  font-family: 'Comfortaa', cursive;
+  font-family: 'Jost', sans-serif;
 }
 
 form input,
