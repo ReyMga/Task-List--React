@@ -1,6 +1,6 @@
 # 👓✏***React TO DO***📈📆
 
-![To-Do List](./public/imagen.png)
+![To-Do List](./public/imagen.jpg)
 
 ## Esta es una aplicación en [React](https://es.reactjs.org/) que permite  hacer un seguimiento de las tareas que se deben realizar. 
 
